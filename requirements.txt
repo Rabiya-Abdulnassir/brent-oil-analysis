@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+jupyter
+notebook
+ipykernel
+pytest
+ruptures
